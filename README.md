@@ -1,0 +1,2 @@
+# PY1010_Prosjektoppgave_Karina_Skjelvik
+PY1010_Prosjektoppgave_Karina_Skjelvik.ipynb
